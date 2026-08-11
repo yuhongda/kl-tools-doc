@@ -8,6 +8,8 @@ permalink: /privacy/
 
 更新日期：2026-08-11
 
+[English version]({{ '/privacy/en/' | relative_url }})
+
 ### 本站（kl-tools-doc）
 
 - 本静态站点由 GitHub Pages 托管，不包含任何分析脚本、广告或第三方追踪；

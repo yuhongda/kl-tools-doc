@@ -1,0 +1,18 @@
+title: KL Tools
+email: silverage.y@gmail.com
+description: >-
+  Kaffelogic 烘焙工具集文档：kl-tools（macOS App + CLI 曲线生成器）与
+  kpro-tools（.kpro 解析与生成器），以及从 38 个真实 profile 学到的烘焙逻辑。
+baseurl: "/kl-tools-doc"
+url: "https://yuhongda.github.io"
+github_username: yuhongda
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: yuhongda

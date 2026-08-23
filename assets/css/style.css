@@ -134,14 +134,15 @@ blockquote {
 .product-shot img {
   display: block;
   width: 100%;
+  max-width: 640px;
   height: auto;
+  margin: 0 auto;
   border-radius: 14px;
   box-shadow: 0 14px 38px rgb(31 35 40 / 18%);
 }
 
 .product-shot--portrait img {
-  max-width: 420px;
-  margin: 0 auto;
+  max-width: 360px;
 }
 
 .product-shot figcaption {

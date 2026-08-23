@@ -3,7 +3,7 @@ layout: home
 title: 首页
 ---
 
-# KL Tools —— Kaffelogic 烘焙工具集
+# KL Profile —— Kaffelogic 烘焙工具集
 
 一套为 [Kaffelogic Studio / Nano 7](https://kaffelogic.com/) 打造的曲线工具，
 根据生豆参数（产地、处理法、海拔、冲煮方式、烘焙风格）一键生成可用的

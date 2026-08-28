@@ -12,9 +12,10 @@ title: 首页
 - **kl-tools**：macOS 原生 App + CLI，界面实时预览曲线，支持保存到
   Kaffelogic 目录或导出 `.kpro`；
 - **kpro-tools**：Python 实现的 `.kpro` 解析器与生成器，附带格式说明、
-  控制点算法和从 38 个真实 profile 学到的烘焙逻辑。
+  控制点算法和早期 profile 分析工具。
 
 两套实现共用同一套贝塞尔曲线算法，并经过与 Kaffelogic Studio 7.4.3
-反编译源码的逐点对拍验证，生成的曲线可相互交叉验证（逐字节一致）。
+反编译源码的逐点对拍验证。当前 App 的 Natural / Washed 基线进一步直接采用
+Kaffelogic 最新官方海拔矩阵，并通过 Community 曲线语料做兼容性验证。
 
 了解更多，请查看[关于]({{ '/about/' | relative_url }})页与下面的最新文章。

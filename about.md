@@ -16,6 +16,10 @@ macOS 原生 App + CLI 的 Kaffelogic profile 生成器。左侧填写生豆参�
 调整曲线；含水率参数会微调干燥段与预热功率。生成文件可直接保存到
 Kaffelogic 的 `roast-profiles` 目录，或复制 `.kpro` 全文。
 
+Natural / Washed 基线来自 Kaffelogic 最新 16 条 Filter / Espresso 海拔矩阵，
+风味目标与烘焙节奏以受限的阶段变换叠加；官方曲线逐点 Golden Test 与 99 条
+Community Profile 兼容测试共同防止算法回归。
+
 ### [kpro-tools](https://github.com/yuhongda/kpro-tools)
 
 Python 实现的 `.kpro` 分析与生成器，包含：

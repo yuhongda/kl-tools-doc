@@ -34,7 +34,7 @@ Kaffelogic 的帮助文档也说明，Studio 可以从日志中关联并提取�
 | 冲煮方式 | Espresso → `E`，Filter → `F` |
 | 烘焙度 | Medium → `M`，Light → `L`，Dark → `D` |
 | 风味目标 | Fruity + Floral → `Fru+Flo` |
-| 节奏 | Balanced Pace → `B`，Automatic Pace → `A` |
+| 节奏 | Fast Pace → `F`，Balanced Pace → `B`，Slow Pace → `S`，Auto Pace → `A` |
 
 例如：
 

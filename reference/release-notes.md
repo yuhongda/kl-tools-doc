@@ -1,4 +1,8 @@
-# KL Profile 版本更新汇总
+---
+layout: page
+title: KL Profile 版本更新汇总
+permalink: /reference/release-notes/
+---
 
 本文汇总 kl-tools（KL Profile）自 **1.1.1** 之后各版本的更新内容，按大版本（功能版本）组织，补丁版本并入所属大版本。版本号取自 Xcode 工程的 `MARKETING_VERSION` 变更历史；1.1.1 发布于 2026-08-23，当前版本为 1.6.3。
 
